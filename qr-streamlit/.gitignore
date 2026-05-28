@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+qr_analytics_local.db
+__pycache__/
+.venv/
